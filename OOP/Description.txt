@@ -1,0 +1,2 @@
+Python is known for its object-oriented programming,
+  so we must deal with the basic concepts of this topic in this section
