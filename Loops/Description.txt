@@ -1,0 +1,5 @@
+we have to know about loop structures 
+for
+while
+nested loops
+  
