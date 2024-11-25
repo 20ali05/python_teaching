@@ -1,0 +1,3 @@
+Welcome to python 
+
+  we are going to learn some basics of Python, syntax, and setting up the environment.
