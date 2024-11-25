@@ -1,0 +1,5 @@
+here you can find about some Conditional structures , some of them could be :
+  If
+  else
+  elif 
+...
