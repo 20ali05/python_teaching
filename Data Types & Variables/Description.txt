@@ -1,0 +1,2 @@
+this folder is going to tell you about :
+  Understanding Python's core data types and variables.
